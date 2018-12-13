@@ -1,7 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fa0e970-1ac4-4aa5-b6af-c89a5c179b11" name="Default Changelist" comment="" />
+    <list default="true" id="5fa0e970-1ac4-4aa5-b6af-c89a5c179b11" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/11/try_django_19_1_of_38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/14/Screen_Shot_2016-01-10_at_4.51.14_PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/2/Screen_Shot_2016-01-10_at_4.51.14_PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/2/Screen_Shot_2016-01-10_at_4.51.14_PM_c9ifrfF.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/None/car.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/None/car_7py0UuC.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/None/car_GtgVSbO.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/None/car_HAuHK9u.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/None/car_HwaoHbO.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/None/car_NXoNUde.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/None/car_Q0HUqw8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/None/car_QRSz8Zw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/None/car_QlSvxHz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/None/car_TyQAwKk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/None/car_UvnCCMP.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/None/car_WxmqsOG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/None/car_eK6dnfp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/None/car_jJqtDJp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/None/car_kbhlfRu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/None/car_l8DNbMR.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/None/car_lFiHy6u.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/media_cdn/None/car_nlzOnm3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/src/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trydjango19/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/trydjango19/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/trydjango19/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/trydjango19/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/css/changelists.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/css/dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/css/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/css/forms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/css/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/css/rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/css/widgets.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/fonts/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/fonts/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/fonts/Roboto-Bold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/fonts/Roboto-Light-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/fonts/Roboto-Regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/calendar-icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/gis/move_vertex_off.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/gis/move_vertex_on.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/icon-addlink.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/icon-alert.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/icon-calendar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/icon-changelink.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/icon-clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/icon-deletelink.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/icon-no.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/icon-unknown-alt.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/icon-unknown.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/icon-yes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/inline-delete.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/selector-icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/sorting-icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/tooltag-add.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/img/tooltag-arrowright.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/SelectBox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/SelectFilter2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/actions.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/admin/DateTimeShortcuts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/admin/RelatedObjectLookups.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/calendar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/collapse.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/inlines.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/inlines.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/jquery.init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/prepopulate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/prepopulate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/timeparse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/urlify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/vendor/jquery/LICENSE-JQUERY.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/vendor/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/admin/js/vendor/xregexp/xregexp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static_cdn/css/base.css" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +98,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/posts/models.py" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="217" />
@@ -37,6 +129,12 @@
               <item name="djangoblog-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="djangoblog-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="djangoblog-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="djangoblog-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -99,17 +197,17 @@
       <option name="presentableId" value="Default" />
       <updated>1544637099466</updated>
       <workItem from="1544637103087" duration="1246000" />
-      <workItem from="1544640992485" duration="766000" />
+      <workItem from="1544640992485" duration="2897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2012000" />
+    <option name="totallyTimeSpent" value="4143000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -123,7 +221,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32843137" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32843137" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -141,5 +239,20 @@
     <entry file="file://$PROJECT_DIR$/blog/tests.py" />
     <entry file="file://$PROJECT_DIR$/blog/modles.md" />
     <entry file="file://$PROJECT_DIR$/blog/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/src/posts/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/trydjango19/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1796" />
+      </provider>
+    </entry>
   </component>
 </project>
